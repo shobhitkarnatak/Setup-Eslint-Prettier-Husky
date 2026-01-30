@@ -1,1 +1,1 @@
-# Setup-Eslint-Prettier-Husky
+#Eslint: npm init @eslint/config@latest
